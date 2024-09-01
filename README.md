@@ -4,8 +4,8 @@ This project is a simple GUI application that allows you to manipulate electroni
 The application is built in C++ using the WinBGIm graphics library.
 
 SCREENSHOTS:
-![screenshot1](\ss_1)
-![screenshot2](\ss_2)
+![screenshot1](\ss_1.jpg)
+![screenshot2](\ss_2.jpg)
 
 Authors:
 - [Ignat Gabriel-Andrei](https://github.com/GabiIgnat/)
